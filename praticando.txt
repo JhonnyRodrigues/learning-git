@@ -1,2 +1,3 @@
 novo arquivo criado para praticar
 #modificando arquivo...
+#alterando para extensão .txt
