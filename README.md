@@ -10,4 +10,4 @@
 #arara
 #polvo
 #peixe
-#orangotango
+#chimpanzé
