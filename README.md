@@ -5,9 +5,3 @@
 #alteracao para testar conflito
 #elefante
 #rinoceronte
-#macaco
-#borboleta
-#arara
-#polvo
-#peixe
-#chimpanzé
