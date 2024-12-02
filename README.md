@@ -7,3 +7,4 @@
 #rinoceronte
 #macaco
 #borboleta
+#arara
